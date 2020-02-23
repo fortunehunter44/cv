@@ -1,0 +1,39 @@
+   body{
+     background-color: #ccedd2;
+
+   }
+p
+{
+  text-align: center;
+}
+
+
+    h1{
+      color:#be8abf;
+    text-align: center;
+    }
+
+
+    h3{
+      color:#fe8761;
+    }
+    h4{
+      color:#f7c5a8;
+    }
+    hr{
+
+      border-style:none;
+      border-top-style: dotted;
+      border-color: grey;
+      border-width: 5px;
+      width:30%;
+
+    }
+
+
+
+    img{
+      height:200px;
+      width:200px;
+      border-radius: 100%;
+    }
